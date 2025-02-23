@@ -52,7 +52,7 @@ Run the application:
 python app.py
 🚀 Usage
 
-Launch the app and access it in your browser at http://127.0.0.1:5000/.
+
 Enter the cryptocurrency you want to analyze.
 View interactive charts, historical data, and price predictions for the next 30 days.
 💡 Contributing
